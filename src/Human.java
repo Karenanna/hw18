@@ -54,7 +54,6 @@ public class Human {
         } else {
             this.city = city;
         }
-
     }
 }
 
